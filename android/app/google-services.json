@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "244721588900",
+    "firebase_url": "https://aiskin-8d78d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "aiskin-8d78d",
+    "storage_bucket": "aiskin-8d78d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244721588900:android:81f1e606c32a484e202431",
+        "android_client_info": {
+          "package_name": "com.example.aiskin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu75O4fJSgSq53nUhwyXVLg_xlf8ILunY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
